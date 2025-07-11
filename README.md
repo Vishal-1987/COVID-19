@@ -15,18 +15,18 @@
 # CONCLUSION:
 
 ## Global Impact:
-### Over 18.3 billion confirmed COVID-19 cases.
-### 448 million deaths reported globally.
-### 9.5 billion recoveries, with a death rate of 2.45% and a recovery rate of 52.16%.
+#### Over 18.3 billion confirmed COVID-19 cases.
+#### 448 million deaths reported globally.
+#### 9.5 billion recoveries, with a death rate of 2.45% and a recovery rate of 52.16%.
 
 ## Year-wise Comparison:
-### Confirmed cases more than doubled from 2020 to 2021.
-### Slight increase in deaths year-over-year.
-### Recovery numbers saw a significant rise.
+#### Confirmed cases more than doubled from 2020 to 2021.
+#### Slight increase in deaths year-over-year.
+#### Recovery numbers saw a significant rise.
 
 ## Top 5 Most Affected Countries:
-### United States, India, Brazil, Russia, and the UK were hit hardest.
-### The US alone reported 6 billion cases, nearly one-third of global cases.
+#### United States, India, Brazil, Russia, and the UK were hit hardest.
+#### The US alone reported 6 billion cases, nearly one-third of global cases.
 
 # PRECAUTIONS:
 ### Wear a mask in crowded or enclosed public spaces.
