@@ -25,8 +25,8 @@
 ### Recovery numbers saw a significant rise.
 
 ## Top 5 Most Affected Countries:
-## United States, India, Brazil, Russia, and the UK were hit hardest.
-## The US alone reported 6 billion cases, nearly one-third of global cases.
+### United States, India, Brazil, Russia, and the UK were hit hardest.
+### The US alone reported 6 billion cases, nearly one-third of global cases.
 
 
 
