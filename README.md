@@ -29,16 +29,16 @@
 #### The US alone reported 6 billion cases, nearly one-third of global cases.
 
 # PRECAUTIONS:
-### Wear a mask in crowded or enclosed public spaces.
-### Maintain social distancing (at least 1 meter or 3 feet).
-### Wash hands frequently with soap and water for at least 20 seconds.
-### Use hand sanitizer with at least 60% alcohol when soap isn't available.
-### Avoid touching your face, especially eyes, nose, and mouth.
-### Stay home if you feel unwell or show symptoms of COVID-19.
-### Cover mouth and nose with a tissue or elbow when coughing or sneezing.
-### Disinfect frequently-touched surfaces regularly (doorknobs, phones, etc.).
-### Improve indoor ventilation by opening windows or using air filters.
-### Get vaccinated and stay updated with booster doses as recommended.
+#### Wear a mask in crowded or enclosed public spaces.
+#### Maintain social distancing (at least 1 meter or 3 feet).
+#### Wash hands frequently with soap and water for at least 20 seconds.
+#### Use hand sanitizer with at least 60% alcohol when soap isn't available.
+#### Avoid touching your face, especially eyes, nose, and mouth.
+#### Stay home if you feel unwell or show symptoms of COVID-19.
+#### Cover mouth and nose with a tissue or elbow when coughing or sneezing.
+#### Disinfect frequently-touched surfaces regularly (doorknobs, phones, etc.).
+#### Improve indoor ventilation by opening windows or using air filters.
+#### Get vaccinated and stay updated with booster doses as recommended.
 
 
 
